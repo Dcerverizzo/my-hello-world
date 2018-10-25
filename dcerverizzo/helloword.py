@@ -1,5 +1,3 @@
-print("Hello World - Prost!")
+print("Hello World - Prost! 2018")
 
 # Python 2.7
-# 
-# Run python helloworld.py
